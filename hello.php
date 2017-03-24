@@ -4,6 +4,6 @@
 </head>
 <body>
 <h1>hello</h1>
-<?php chho "my name is something"; ?>
+<?php chho "HELLO GUYS! My name is something "; ?>
 </body>
 </html>
